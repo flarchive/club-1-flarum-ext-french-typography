@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of club-1/flarum-ext-french-typography.** Not for installation: use [Packagist](https://packagist.org/packages/club-1/flarum-ext-french-typography) or the [upstream repository](https://github.com/club-1/flarum-ext-french-typography).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/club-1-flarum-ext-french-typography/tree/archive/v1.1.0) · License: `AGPL-3.0-or-later` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/club-1-flarum-ext-french-typography/tree/archive/v1.1.0) · License: `AGPL-3.0-or-later` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-02-22 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-french-typography/tree/archive/v1.0.0) |
+| `v1.1.0` | 2023-02-26 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-french-typography/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/club-1-flarum-ext-french-typography.json](https://github.com/flarchive/archive-index/blob/main/packages/club-1-flarum-ext-french-typography.json)
 
